@@ -1,0 +1,23 @@
+[
+  [
+    { "letter": "C", "hint": "WRONG_LETTER"},
+    { "letter": "R", "hint": "CORRECT" },
+    { "letter": "Y", "hint": "WRONG_LETTER" },
+    { "letter": "P", "hint": "WRONG_LETTER" },
+    { "letter": "T", "hint": "WRONG_LETTER" }
+  ],
+  [
+    { "letter": "A", "hint": "WRONG_POSITION"},
+    { "letter": "I", "hint": "WRONG_LETTER" },
+    { "letter": "S", "hint": "WRONG_LETTER" },
+    { "letter": "L", "hint": "WRONG_LETTER" },
+    { "letter": "E", "hint": "WRONG_LETTER" }
+  ],
+  [
+    { "letter": "D", "hint": "WRONG_LETTER"},
+    { "letter": "O", "hint": "WRONG_POSITION" },
+    { "letter": "U", "hint": "WRONG_LETTER" },
+    { "letter": "G", "hint": "WRONG_LETTER" },
+    { "letter": "H", "hint": "WRONG_LETTER" }
+  ]
+]
