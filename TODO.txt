@@ -1,0 +1,3 @@
+[DONE] issue001-command-line-tool:
+  Build a command line tool that will generate a list of possible 'words'
+  for a given wordle game.
